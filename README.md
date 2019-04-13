@@ -15,7 +15,7 @@ Requires macOS Mojave 10.14.2 or later.
 
 ### Download Instructions:
 <ol>
-    <li> Please download the file: <strong>Twilight.app.zip</strong> from https://github.com/chiragramani/Twilight/releases/tag/1.0.
+    <li> Please download the file: <strong>Twilight.app.zip</strong> from https://github.com/chiragramani/Twilight/releases/tag/1.01.
       <li>Uncompress the file and open <strong>Twilight</strong>.</li>
     <li>Click the twilight icon on the menu bar to switch themes: dark and light.</li>
       
