@@ -61,7 +61,10 @@ final class MenuItemInteractionHandler {
     isCurrentTransitionInProgress = true
     addOverlaysOnVisibleWindows()
     toggleDarkMode()
-    fadeOutOverlayWindows()
+    /// Adding a delay because of script execution.
+    DispatchQueue.main.asyncAfter(deadline: .now() + 0.25) {
+      self.fadeOutOverlayWindows()
+    }
   }
   
   private func addOverlaysOnVisibleWindows() {
