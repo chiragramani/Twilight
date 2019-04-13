@@ -10,7 +10,7 @@
   </p>
 </div>
 
-### macOS Version
+### Supported Versions:
 Requires macOS Mojave 10.14.2 or later.
 
 ### Download Instructions:
@@ -21,5 +21,5 @@ Requires macOS Mojave 10.14.2 or later.
       
 </ol>
 
-### How Dark Mode works with some apps and features
+### How Dark Mode works with some apps and features:
 Please refer to https://support.apple.com/en-in/HT208976
