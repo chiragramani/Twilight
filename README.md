@@ -9,3 +9,9 @@
      A macOS app to toggle appearance themes: dark and light - all in just one click.
   </p>
 </div>
+
+### macOS Version
+Requires macOS Mojave 10.14.2 or later.
+
+### How Dark Mode works with some apps and features
+Please refer to https://support.apple.com/en-in/HT208976
