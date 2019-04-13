@@ -1,0 +1,64 @@
+{
+  "images" : [
+    {
+      "size" : "16x16",
+      "idiom" : "mac",
+      "filename" : "TWILIGHT App store 16 x 16.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "mac",
+      "size" : "16x16",
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "TWILIGHT App store 32 x 32.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "mac",
+      "size" : "32x32",
+      "scale" : "2x"
+    },
+    {
+      "size" : "128x128",
+      "idiom" : "mac",
+      "filename" : "TWILIGHT App store 128 x 128.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "mac",
+      "size" : "128x128",
+      "scale" : "2x"
+    },
+    {
+      "size" : "256x256",
+      "idiom" : "mac",
+      "filename" : "TWILIGHT App store 256 * 256.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "mac",
+      "size" : "256x256",
+      "scale" : "2x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "TWILIGHT App store 512 x 512.png",
+      "scale" : "1x"
+    },
+    {
+      "size" : "512x512",
+      "idiom" : "mac",
+      "filename" : "TWILIGHT App store 512 x 512 2x.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
