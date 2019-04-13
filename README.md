@@ -6,7 +6,7 @@
     Twilight
   </h1>
   <p align="center">
-     A macOS app to easily switch appearance themes: dark and light - all in just one click.
+     A macOS app to easily switch appearance themes: dark and light - all with just one click.
   </p>
 </div>
 
