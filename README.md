@@ -21,5 +21,8 @@ Requires macOS Mojave 10.14.2 or later.
       
 </ol>
 
+### Credits:
+A big thanks to Rahul Das (https://www.linkedin.com/in/rdas121/) for his help with the assets.
+
 ### How Dark Mode works with some apps and features:
 Please refer to https://support.apple.com/en-in/HT208976
